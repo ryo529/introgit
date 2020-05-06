@@ -5,3 +5,5 @@ git commit
 さらに練習
 git rm
 git status
+
+git diff
